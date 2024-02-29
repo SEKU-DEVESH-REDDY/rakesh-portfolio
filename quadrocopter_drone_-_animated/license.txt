@@ -1,0 +1,11 @@
+Model Information:
+* title:	Quadrocopter Drone - animated
+* source:	https://sketchfab.com/3d-models/quadrocopter-drone-animated-0ad12799f89b45968afd9dcf9bee9467
+* author:	Vetech82 (https://sketchfab.com/Vetech82)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Quadrocopter Drone - animated" (https://sketchfab.com/3d-models/quadrocopter-drone-animated-0ad12799f89b45968afd9dcf9bee9467) by Vetech82 (https://sketchfab.com/Vetech82) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
